@@ -1,23 +1,11 @@
-<!--
-**gyoogle/gyoogle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+ 
 [![Gyoogle's github stats](https://github-readme-stats.vercel.app/api?username=gyoogle&show_icons=true&theme=radical)](https://github.com/gyoogle/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyoogle&layout=compact&theme=radical)](https://github.com/gyoogle)
 <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gyoogle&repo=tech-interview-for-developer&theme=radical)](https://github.com/gyoogle/tech-interview-for-developer)
 <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=gyoogle&theme=onedark)](https://github.com/gyoogle/github-profile-trophy)
+
 <br>
 
 <div align=center>
