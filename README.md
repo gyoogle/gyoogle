@@ -16,6 +16,12 @@
 📫 : gyuseok6394@gmail.com  <br>
 📝 : https://kim6394.tistory.com/
 
+### Career
+
+- 2018.12 ~ 2019.11 : Samsung Software Academy For Youth 1st
+- 2020.03 ~ 2022.10 : Samsung Electronics Device Solutions Test and System Package Software Engineer
+- 2022.11 ~ : Samsung Electronics Device Solutions People Team Software Engineer
+
 <br>
   
 <div align=center>
